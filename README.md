@@ -3,12 +3,12 @@ A universal Minecraft player management system.
 一个联合Minecraft玩家管理系统。
 
 ## What is UniBan? UniBan是什么？
-UniBan is a universal cross-server Minecraft player management system. It can help server operators to accomplish cross-platfrom cross-server player management, and help establishing a better Minecraft gamming community together.  
-UniBan是一个跨服务器的Minecraft联合玩家管理系统。它可为各服务器管理员实现跨平台跨服务器的玩家管理，并帮助一同建立更好的Minecraft游戏环境。
+UniBan is a universal cross-server Minecraft player access management system. It can help server operators to accomplish cross-platfrom cross-server player management, and help establishing a better Minecraft gamming community together.  
+UniBan是一个跨服务器的Minecraft联合玩家访问管理系统。它可为各服务器管理员实现跨平台跨服务器的玩家管理，并帮助一同建立更好的Minecraft游戏环境。
 
 ## Objective 目标
 1. 根据玩家的credit自动封禁玩家
-1. 傻瓜式操作，使用者只需要设置他能接受的ban_level和由UniBan分配的key，就可以自动化实现跨服ban和unban管理。只需要使用/ban和/unban指令。
+1. 傻瓜式操作，使用者只需要设置他能接受的credit和由UniBan分配的key，就可以自动化实现跨服ban和unban管理。只需要使用/ban和/unban指令。
 1. 减少人工干预。ban操作不需要二次审核。
 1. 根据服务器在线时间、信誉、采用正态分布，计算玩家的credit。
 1. 抵抗恶意数据。
