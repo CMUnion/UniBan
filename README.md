@@ -46,3 +46,4 @@ UniBan是一个跨服务器的Minecraft联合玩家管理系统。它可为各�
 1. 允许注销AccessToken
 1. check的时候记录这个玩家被check次数，用于计算credit。因安全原因（防止破解），此数据不建议对外公开。
 1. ...
+1. 具体请看[API wiki](https://github.com/CMUnion/UniBan-API/wiki)
